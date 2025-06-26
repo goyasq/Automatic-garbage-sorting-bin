@@ -1,0 +1,26 @@
+<annotation>
+	<folder>carrot</folder>
+	<filename>carrot (64).jpg</filename>
+	<path>D:\桌面\carrot\carrot (64).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>658</xmin>
+			<ymin>545</ymin>
+			<xmax>823</xmax>
+			<ymax>801</ymax>
+		</bndbox>
+	</object>
+</annotation>

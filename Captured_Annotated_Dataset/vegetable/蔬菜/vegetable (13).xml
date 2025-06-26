@@ -1,0 +1,26 @@
+<annotation>
+	<folder>蔬菜</folder>
+	<filename>vegetable (13).jpg</filename>
+	<path>D:\桌面\蔬菜\vegetable (13).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vegetable</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>42</ymin>
+			<xmax>1254</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>

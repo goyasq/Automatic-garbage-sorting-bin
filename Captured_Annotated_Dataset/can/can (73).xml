@@ -1,0 +1,26 @@
+<annotation>
+	<folder>can</folder>
+	<filename>can (73).jpg</filename>
+	<path>D:\桌面\can\can (73).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>497</xmin>
+			<ymin>387</ymin>
+			<xmax>1467</xmax>
+			<ymax>993</ymax>
+		</bndbox>
+	</object>
+</annotation>

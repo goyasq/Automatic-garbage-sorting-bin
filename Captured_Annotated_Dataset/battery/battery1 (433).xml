@@ -1,0 +1,26 @@
+<annotation>
+	<folder>battery</folder>
+	<filename>battery1 (433).jpg</filename>
+	<path>D:\桌面\battery\battery1 (433).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>battery</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>763</xmin>
+			<ymin>149</ymin>
+			<xmax>895</xmax>
+			<ymax>483</ymax>
+		</bndbox>
+	</object>
+</annotation>
